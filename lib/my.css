@@ -1,0 +1,54 @@
+.index-center{
+	font-family:cursive;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+
+	margin-bottom:auto;
+	color:#636060;
+}
+#index-title{
+		margin-top:250px;
+}
+#start{
+	margin-left:550px;
+}
+#plan-title{
+	font-family:cursive;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	color:#636060;
+}
+#decorate{
+margin-left:550px;
+}
+#sortable{
+	width:200px;
+
+	
+}
+#place-list{
+	margin-left:5px;	
+}
+li{
+	list-style-type:none;
+}
+#map-canvas{
+	width:800px;
+	height:600px;
+}
+
+body{
+	font-family:cursive;
+
+}
+p{
+	font-family:cursive;
+}
+
+.ui-button{
+	font-family:cursive; !important;
+}
