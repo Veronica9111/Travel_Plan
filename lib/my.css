@@ -1,3 +1,7 @@
+#place-comment{
+	height:110px;
+}
+
 .index-center{
 	font-family:cursive;
 	text-align:center;
@@ -51,4 +55,8 @@ p{
 
 .ui-button{
 	font-family:cursive; !important;
+}
+
+checkbox{
+	display: inline-block;
 }
